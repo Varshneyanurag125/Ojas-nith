@@ -14,7 +14,7 @@ header {
     }
   }
 }
-.activeLink {
+.activeLink{
   position: relative;
   color: $green;
   &::after {
@@ -26,6 +26,9 @@ header {
     height: 2px;
     background-color: $green;
   }
+}
+link:hover{
+  background-color: $gradient2;
 }
 
 @media screen and (max-width: 800px) {
@@ -52,7 +55,8 @@ header {
       }
     }
     .button-primary {
-      display: none;
+      display: block;
+      max-width: 40%;
     }
   }
   .activeLink {
@@ -60,4 +64,10 @@ header {
       display: none;
     }
   }
+  .icon
+  {
+  margin-top: 0.25rem;
+  fill: $green;
+  }  
+
 }

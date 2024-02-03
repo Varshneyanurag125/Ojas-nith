@@ -10,64 +10,47 @@ const Footer = () => {
         <div className='container'>
           <div className='grid-4'>
             <div className='logo'>
-              <TitleLogo title='creative' caption='7' className='logobg' />
-              <br />
-              <span>
-                Questions? Reach us <br /> Monday – Friday from 9 am to 6 pm
-              </span>
-              <br />
-              <br />
-              <h3>+1 001 234 5678</h3>
-              <br />
-              <button className='button-primary'>Request for quote</button>
+              <TitleLogo title='OJAS' className='logobg' />
             </div>
             <ul>
-              <h3>COMPANY</h3>
+              <h3>CLUB</h3>
               <li>
-                <Link href='/'>About agency</Link>
+                <Link href='/'>HOME</Link>
               </li>
               <li>
-                <Link href='/'>Our team</Link>
+                <Link href='/'>TEAM</Link>
               </li>
               <li>
-                <Link href='/'>Showcase</Link>
+                <Link href='/'>EVENTS</Link>
               </li>
               <li>
-                <Link href='/'>Blog</Link>
+                <Link href='/'>PROJECTS</Link>
               </li>
               <li>
-                <Link href='/'>Demo design system</Link>
-              </li>
-              <li>
-                <Link href='/'>Contact</Link>
+                <Link href='/'>ABOUT US</Link>
               </li>
             </ul>
             <ul>
-              <h3>SERVICES</h3>
+              <h3>DOMAINS</h3>
               <li>
                 <Link href='/'>Web Design & Development</Link>
               </li>
               <li>
-                <Link href='/'>Branding & Creative Services</Link>
+                <Link href='/'>Graphics</Link>
               </li>
               <li>
-                <Link href='/'>Digital Marketing</Link>
+                <Link href='/'>Core </Link>
               </li>
               <li>
-                <Link href='/'>E-Commerce</Link>
+                <Link href='/'>UI/UX</Link>
               </li>
             </ul>
             <ul>
               <h3>CONNECT</h3>
-              <div className='connect'>
+              <div className='social-handle'>
                 <li>
                   <Link href='/'>
                     <BsFacebook size={25} />
-                  </Link>
-                </li>
-                <li>
-                  <Link href='/'>
-                    <AiFillBehanceCircle size={25} />
                   </Link>
                 </li>
                 <li>
@@ -85,12 +68,11 @@ const Footer = () => {
           </div>
           <div className='legal connect py'>
             <div className='text'>
-              <span>© 2023 THE SEVEN. ALL RIGHTS RESERVED.</span>
+              <span>© 2024 TEAM OJAS. ALL RIGHTS RESERVED.</span>
             </div>
             <div className='connect'>
-              <span>GORKCODER COMPANY</span>
+              <span>ANURAG VARSHNEY</span>
               <span> &nbsp; | &nbsp; </span>
-              <span>TERMS & CONDITIONS</span>
             </div>
           </div>
         </div>

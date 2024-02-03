@@ -1,6 +1,7 @@
-import { expertise } from "@/assets/data/dummydata"
+import { event } from "@/assets/data/dummydata"
 import { Card } from "@/components/common/Card"
 import { Title, TitleSm } from "@/components/common/Title"
+import Banner from "@/components/Banner"
 import React from "react"
 
 const Services = () => {
@@ -9,17 +10,21 @@ const Services = () => {
       <section className='agency bg-top'>
         <div className='container'>
           <div className='heading-title'>
-            <TitleSm title='SERVICES' /> <br />
+            <TitleSm title='EVENTS' /> <br />
             <br />
-            <Title title='Unique technologies & modern approach' className='title-bg' />
+            <Title title='BEST EVENTS' className='title-bg' />
           </div>
-          <div className='grid-2 py'>
-            {expertise.map((item) => (
+          <div  data-aos="zoom-in" className='grid-2 py ' style={{}}>
+            {event.map((item) => (
               <Card data={item} key={item.id} caption={item.post} show={true} />
             ))}
           </div>
+      <Banner /> 
+      <br />
+      <br />
         </div>
       </section>
+              
     </>
   )
 }

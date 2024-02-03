@@ -6,218 +6,184 @@ import { BiUser } from "react-icons/bi"
 export const home = [
   {
     icon: <AiOutlineCalendar size={25} />,
-    title: "10+ years of market experience",
+    title: "",
   },
   {
     icon: <TfiRulerPencil size={25} />,
-    title: "Unique technologies & modern approach ",
+    title: "",
   },
   {
     icon: <VscFileSubmodule size={25} />,
-    title: "100+ cuccessful cases in portfolio",
+    title: "",
   },
   {
     icon: <BiUser size={25} />,
-    title: "Customer satisfaction is our top priority",
+    title: "",
   },
 ]
-export const expertise = [
+export const event = [
   {
     id: 1,
-    title: "Web Design & Development",
+    title: "Event Name",
     cover: "../images/e1.jpg",
-    desc: [{ text: "Web design" }, { text: "Web development" }, { text: "Custom icons & illustrations" }, { text: "Hosting" }, { text: "Website audit" }],
+    desc: [{ text: "Event description" }],
   },
   {
     id: 2,
-    title: "Digital Marketing",
-    cover: "../images/e2.jpg",
-    desc: [{ text: "Social media marketing" }, { text: "Marketing campaigns" }, { text: "Markting management" }, { text: "SEO" }],
-  },
-  {
-    id: 3,
-    title: "E-Commerce",
-    cover: "../images/e3.jpg",
-    desc: [{ text: "E-Commerce website design" }, { text: "WooCommerce" }, { text: "Content management" }, { text: "Hosting" }],
-  },
-  {
-    id: 4,
-    title: "Branding & Creative Services",
-    cover: "../images/e4.jpg",
-    desc: [{ text: "Visual identity" }, { text: "Branding for social media" }, { text: "Custom illustrations" }],
-  },
-]
-export const testimonial = [
-  {
-    id: 1,
-    name: "Alexander Black",
+    title: "Event Name",
     cover: "../images/e1.jpg",
-    post: "Seven consulting - CEO",
-    desc: "Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!",
-  },
-  {
-    id: 2,
-    name: "Diana Green",
-    cover: "../images/e2.jpg",
-    post: "Seven Arts - marketing manager",
-    desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
+    desc: [{ text: "Event description" }],
   },
   {
     id: 3,
-    name: "Alexander Black",
-    cover: "../images/e3.jpg",
-    post: "Seven consulting - CEO",
-    desc: "Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!",
+    title: "Event Name",
+    cover: "../images/e1.jpg",
+    desc: [{ text: "Event description" }],
   },
   {
     id: 4,
-    name: "Diana Green",
-    cover: "../images/e4.jpg",
-    post: "Seven Arts - marketing manager",
-    desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
+    title: "Event Name",
+    cover: "../images/e1.jpg",
+    desc: [{ text: "Event description" }],
   },
 ]
+
 export const showcase = [
   {
     id: 1,
-    title: "Neon Lights",
+    title: "PIC 1",
     cover: "../images/s1.jpg",
-    catgeory: "DIGITAL MARKETING",
+    catgeory: "Des",
   },
   {
     id: 2,
-    title: "Futuristic Furniture",
-    catgeory: "WEBSITES",
+    title: "PIC 2",
     cover: "../images/s2.jpg",
+    catgeory: "DES",
   },
   {
     id: 3,
-    title: "Smart Living",
+    title: "PIC 3",
     cover: "../images/s3.jpg",
-    catgeory: "WEBSITES",
+    catgeory: "DES",
   },
   {
     id: 4,
-    title: "Light Painting",
+    title: "PIC 4",
     cover: "../images/s4.jpg",
-    catgeory: "BRANDING	",
+    catgeory: "DES",
   },
   {
     id: 5,
-    title: "Ideabox",
+    title: "PIC 5",
     cover: "../images/s5.jpg",
-    catgeory: "BRANDING	",
+    catgeory: "DES",
   },
   {
     id: 5,
-    title: "VR Experience",
+    title: "PIC 6",
     cover: "../images/s6.jpg",
-    catgeory: "WEBSITES	",
+    catgeory: "DES",
   },
 ]
-export const brand = [
-  {
-    id: 1,
-    cover: "../images/l1.svg",
-  },
-  {
-    id: 2,
-    cover: "../images/l2.svg",
-  },
-  {
-    id: 3,
-    cover: "../images/l3.svg",
-  },
-  {
-    id: 4,
-    cover: "../images/l4.svg",
-  },
-  {
-    id: 5,
-    cover: "../images/l5.svg",
-  },
-  {
-    id: 6,
-    cover: "../images/l6.svg",
-  },
-]
-export const blogdata = [
-  {
-    id: 1,
-    title: "Ligula vel urna accumsan placerat",
-    cover: "../images/b1.webp",
-    catgeory: "INDUSTRY",
-    date: "JANUARY 12, 2023",
-  },
-  {
-    id: 2,
-    title: "Don’t underestimate the lorem ipsum dolor amet",
-    cover: "../images/b2.jpg",
-    catgeory: "TIPS & TRICKS",
-    date: "OCTOBER 20, 2023",
-  },
-  {
-    id: 3,
-    title: "Building the real VR lorem ipsum dolor amet glavrida from a scratch",
-    cover: "../images/b3.jpg",
-    catgeory: "TIPS & TRICKS",
-    date: "OCTOBER 9, 2023",
-  },
-  {
-    id: 4,
-    title: "What eleifend posuere tincidunt",
-    cover: "../images/b4.jpg",
-    catgeory: "EVENTS",
-    date: "OCTOBER 8, 2023",
-  },
-]
+
 export const teamdata = [
   {
     id: 1,
-    title: "Alexander Black",
+    title: "Anurag varshney",
     cover: "../images/t1.jpg",
-    post: "FOUNDER, CEO",
+    post: "Team Member",
   },
   {
     id: 2,
-    title: "Anna Kovalenko",
-    cover: "../images/t2.jpg",
-    post: "FINANCE DIRECTOR",
+    title: "Anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
   },
   {
     id: 3,
-    title: "Tiffany White",
-    cover: "../images/t3.jpg",
-    post: "CREATIVE DIRECTOR",
+    title: "Anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
   },
   {
     id: 4,
-    title: "Richard Greenwood",
-    cover: "../images/t4.jpg",
-    post: "PROGRAMMER",
+    title: "anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
   },
   {
     id: 5,
-    title: "Jessica Brown",
-    cover: "../images/t5.jpg",
-    post: "MARKETING DIRECTOR",
+    title: "Anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
   },
   {
     id: 6,
-    title: "Gregory Windstorm",
-    cover: "../images/t6.jpg",
-    post: "ACCOUNTING MANAGER",
+    title: "Anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
   },
   {
     id: 7,
-    title: "Anna Red",
-    cover: "../images/t7.jpg",
-    post: "PROJECT MANAGER",
+    title: "Anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
   },
   {
     id: 8,
-    title: "Join our team!",
-    cover: "../images/t8.jpg",
-    post: "",
+    title: "Anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
+  },
+]
+export const teamdata2 = [
+  {
+    id: 1,
+    title: "Anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
+  },
+  {
+    id: 2,
+    title: "Anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
+  },
+  {
+    id: 3,
+    title: "Anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
+  },
+  {
+    id: 4,
+    title: "anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
+  },
+  {
+    id: 5,
+    title: "Anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
+  },
+  {
+    id: 6,
+    title: "Anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
+  },
+  {
+    id: 7,
+    title: "Anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
+  },
+  {
+    id: 8,
+    title: "Anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
   },
 ]

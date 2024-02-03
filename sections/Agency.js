@@ -1,6 +1,7 @@
-import Banner from "@/components/Banner"
-import Brand from "@/components/Brand"
-import Testimonial from "@/components/Testimonial"
+// import Banner from "@/components/Banner"
+// import Brand from "@/components/Brand"
+// import Testimonial from "@/components/Testimonial"
+import Tilt from "@/components/Tilt"
 import { Title, TitleSm } from "@/components/common/Title"
 
 const Agency = () => {
@@ -9,55 +10,58 @@ const Agency = () => {
       <section className='agency bg-top'>
         <div className='container'>
           <div className='heading-title'>
-            <TitleSm title='ABOUT AGENCY' /> <br />
+            <TitleSm title='ABOUT PROJECTS' /> <br />
             <br />
-            <Title title='The last digital agency you will ever need!' className='title-bg' />
+            <Title title='Making your vision become a reality.' className='title-bg' />
           </div>
 
-          <div className='content flex1'>
-            <div className='left w-60 py'>
-              <TitleSm title='Turning your business ideas into smart digital products since 2001' />
-              <p className='desc-p'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus eleifend magna, molestie iaculis sem pulvinar eu. Etiam non dui felis. Proin posuere dapibus magna laoreet posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin dignissim, sem eget sollicitudin tempor, libero velit aliquam enim, vel egestas tortor ante quis sem.</p>
-              <div className='grid-3'>
-                <div className='box'>
-                  <h1 className='indigo'>10+</h1>
-                  <h3>Years of experience</h3>
-                </div>
-                <div className='box'>
-                  <h1 className='indigo'>50+</h1>
-                  <h3>Successful cases</h3>
-                </div>
-                <div className='box'>
-                  <h1 className='indigo'>12+</h1>
-                  <h3>Industry awards</h3>
-                </div>
-              </div>
+          <div className='content flex'>
+            <div data-aos="zoom-in" className='left w-40 py'>
+              <Tilt options={{ max:15, speed: 400 }} className="hover-box">
+                <img src='/images/s4.jpg' alt='Img' className='round' width='100%' height='100%' />
+                <a href="/" className="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" fill="#00dc93" viewBox="0 0 256 256"><path d="M237.66,122.34l-96-96A8,8,0,0,0,128,32V72H104a8,8,0,0,0-8,8v96a8,8,0,0,0,8,8h24v40a8,8,0,0,0,13.66,5.66l96-96A8,8,0,0,0,237.66,122.34ZM144,204.69V176a8,8,0,0,0-8-8H112V88h24a8,8,0,0,0,8-8V51.31L220.69,128ZM48,80v96a8,8,0,0,1-16,0V80a8,8,0,0,1,16,0Zm32,0v96a8,8,0,0,1-16,0V80a8,8,0,0,1,16,0Z"></path></svg></a>
+              </Tilt>  
             </div>
-            <div className='right w-40 ml'>
-              <img src='/images/s1.jpg' alt='Img' className='round' width='100%' height='100%' />
+            <div  data-aos="fade-left" className='right w-60 ml'>
+              <TitleSm title='PROJECT NAME' />
+              <br />
+              <p className='misson-p'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe consequuntur modi autem a corrupti fugiat ipsum possimus distinctio hic officiis!</p>
             </div>
           </div>
 
           <div className='content flex'>
-            <div className='left w-40 py'>
+            <div data-aos="zoom-in" className='left w-40 py'>
+            <Tilt options={{ max:15, speed: 400 }} className="hover-box">
               <img src='/images/s4.jpg' alt='Img' className='round' width='100%' height='100%' />
+              <a href="/" className="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" fill="#00dc93" viewBox="0 0 256 256"><path d="M237.66,122.34l-96-96A8,8,0,0,0,128,32V72H104a8,8,0,0,0-8,8v96a8,8,0,0,0,8,8h24v40a8,8,0,0,0,13.66,5.66l96-96A8,8,0,0,0,237.66,122.34ZM144,204.69V176a8,8,0,0,0-8-8H112V88h24a8,8,0,0,0,8-8V51.31L220.69,128ZM48,80v96a8,8,0,0,1-16,0V80a8,8,0,0,1,16,0Zm32,0v96a8,8,0,0,1-16,0V80a8,8,0,0,1,16,0Z"></path></svg></a>
+            </Tilt>  
             </div>
-            <div className='right w-60 ml'>
-              <TitleSm title='Our mission' />
+            <div  data-aos="fade-left" className='right w-60 ml'>
+              <TitleSm title='PROJECT NAME' />
               <br />
-              <p className='misson-p'>Fusce fringilla justo vel dui consectetur, fringilla maximus ante malesuada. Suspendisse facilisis nisl augue, ut sollicitudin lectus ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis esse vitae officia nostrum facere. Fugiat voluptates, expedita dolore at perferendis quae libero fuga consequatur veniam, eius non fugit nulla vitae?</p>
+              <p className='misson-p'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe consequuntur modi autem a corrupti fugiat ipsum possimus distinctio hic officiis!</p>
             </div>
           </div>
+
+          <div  className='content flex'>
+          <div data-aos="zoom-in" className='left w-40 py'>
+            <Tilt options={{ max:15, speed: 400 }} className="hover-box">
+              <img src='/images/s4.jpg' alt='Img' className='round' width='100%' height='100%' />
+              <a href="/" className="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" fill="#00dc93" viewBox="0 0 256 256"><path d="M237.66,122.34l-96-96A8,8,0,0,0,128,32V72H104a8,8,0,0,0-8,8v96a8,8,0,0,0,8,8h24v40a8,8,0,0,0,13.66,5.66l96-96A8,8,0,0,0,237.66,122.34ZM144,204.69V176a8,8,0,0,0-8-8H112V88h24a8,8,0,0,0,8-8V51.31L220.69,128ZM48,80v96a8,8,0,0,1-16,0V80a8,8,0,0,1,16,0Zm32,0v96a8,8,0,0,1-16,0V80a8,8,0,0,1,16,0Z"></path></svg></a>
+            </Tilt>  
+            </div>
+            <div data-aos="fade-left" className='right w-60 ml'>
+              <TitleSm title='PROJECT NAME' />
+              <br />
+              <p className='misson-p'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe consequuntur modi autem a corrupti fugiat ipsum possimus distinctio hic officiis!</p>
+            </div>
+          </div>
+
+          <br />
+          <br />
+
         </div>
       </section>
-
-      <Brand />
-      <Testimonial />
-      <Banner />
-      <br />
-      <br />
-      <br />
-      <br />
     </>
   )
 }
