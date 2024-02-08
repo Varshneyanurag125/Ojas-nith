@@ -1,6 +1,12 @@
 /*  Hero Section */
 .hero {
+  // display: flex;
+  // align-items: center;
+  // justify-content:center;
+  // flex-direction: column;
+  // gap: 6rem;
   text-align: center;
+  // color:;
   padding: $xl-6 0;
   padding-top: $xll-3;
   height: 90vh !important;
@@ -19,11 +25,20 @@
     z-index: -1;
     overflow-x: hidden !important;
   }
+  // .home-logo{
+  //   padding-top: 3rem;
+  // }
+
+ 
   .hero-title {
-    font-size: $xll-3;
+    font-size:120px;
     line-height: 115px;
     font-weight: 600;
     margin: $xl-6 0;
+    background: -webkit-linear-gradient(#eeeeee, rgb(190, 190, 245) 99%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    // text-shadow: white 1px 0 10px;
   }
   .sub-heading {
     display: flex;
@@ -37,9 +52,64 @@
       color: $green;
     }
   }
+
+}
+
+.snow {
+	position: absolute;
+	min-width: 100vw;
+	min-height: 100vh;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+
+.snow .svg {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+#snow-top-layer {
+	will-change: transform;
+	transform: translateY(-768px);
+	animation: fall 18s infinite linear;
+}
+
+#snow-bottom-layer {
+	will-change: transform;
+	transform: translateY(-768px);
+	animation: fall 40s infinite linear;
+}
+
+@keyframes fall {
+	
+	100% {
+		transform: translateY(0);
+	}
+	
 }
 
 
+// .rotated-element{
+//   background-image: url("../assets/images/Artboard\ 2@2x.png");
+//   position: absolute;
+//   width: 1092px; 
+//   height:1092px; 
+//   top: 80%;
+//   left: 13.5%;
+//   animation: rotateAnimation 20s linear infinite
+// }
+
+// @keyframes rotateAnimation {
+//   from {
+//     transform: rotate(0deg);
+//   }
+//   to {
+//     transform: rotate(360deg);
+//   }
+// }
 
 .hero-sec {
   position: relative;
@@ -69,6 +139,14 @@
   }
 }
 
+.particlesContainer {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
 
 //showcase
 .showcase {
@@ -152,6 +230,12 @@ footer {
   }
 }
 
+.logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
 //Agency Page
 .bg-top {
   &::after {

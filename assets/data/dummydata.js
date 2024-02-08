@@ -137,6 +137,22 @@ export const teamdata = [
     post: "Team Member",
   },
 ]
+export const ccdata = [
+  {
+    id: 1,
+    title: "Anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
+  },
+  {
+    id: 2,
+    title: "Anurag varshney",
+    cover: "../images/t1.jpg",
+    post: "Team Member",
+  },
+
+]
+
 export const teamdata2 = [
   {
     id: 1,
