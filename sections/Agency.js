@@ -1,6 +1,4 @@
-// import Banner from "@/components/Banner"
-// import Brand from "@/components/Brand"
-// import Testimonial from "@/components/Testimonial"
+
 import Tilt from "@/components/Tilt"
 import { Title, TitleSm } from "@/components/common/Title"
 

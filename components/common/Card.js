@@ -3,7 +3,7 @@ import { TitleSm } from "./Title"
 import { HiOutlineArrowRight } from "react-icons/hi"
 import Tilt from "../Tilt"
 
-export const Card = ({ data, caption, show, path }) => {
+export const Card = ({ data, caption, show}) => {
   return (
     <>
       <div  data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000" className='card'>
@@ -13,11 +13,12 @@ export const Card = ({ data, caption, show, path }) => {
           </Tilt>
         </div>
         <div className='card-details '>
-          <Link href="/" className='title-link'>
+          <Link href={`${data.handle}`} className='title-link' target="_blank">
             <TitleSm title={data.title} />
           </Link>
+
           {caption && (
-            <Link href="/">
+            <Link href={`${data.handlegit}`} target="_blank">
               {caption} <HiOutlineArrowRight className='link-icon' />
             </Link>
           )}

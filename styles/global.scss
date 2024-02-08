@@ -63,12 +63,14 @@
 	width: 100%;
 	top: 0;
 	left: 0;
+  animation: glow 2s infinite linear;
 }
 
 .snow .svg {
 	position: absolute;
 	width: 100%;
 	height: 100%;
+  
 }
 
 #snow-top-layer {
@@ -89,6 +91,17 @@
 		transform: translateY(0);
 	}
 	
+}
+@keyframes glow {
+  0% {
+    filter: drop-shadow(0 0 3px white);
+  }
+  50% {
+    filter: drop-shadow(0 0 6px white);
+  }
+  100% {
+    filter: drop-shadow(0 0 3px white);
+  }
 }
 
 
@@ -146,6 +159,38 @@
   top: 0;
   left: 0;
   z-index: -1;
+}
+
+//PRE LOADER 
+
+.preloader{
+  height: 100vh;
+  width: 100vw;
+  background: black;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+
+}
+
+.preloader .texts-container{
+  // width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+  width: 390px;
+  font-size: 50px;
+  font-weight: 500;
+  overflow: hidden;
+  color: white;
 }
 
 //showcase
@@ -238,6 +283,7 @@ footer {
 }
 //Agency Page
 .bg-top {
+  overflow-x: hidden;
   &::after {
     content: "";
     position: absolute;

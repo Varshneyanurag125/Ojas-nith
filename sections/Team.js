@@ -1,4 +1,4 @@
-import { ccdata ,teamdata , teamdata2 } from "@/assets/data/dummydata"
+import { ccdata , finaldata , thirddata , seconddata , firstdata } from "@/assets/data/dummydata"
 import { Card } from "@/components/common/Card"
 import { Title, TitleSm } from "@/components/common/Title"
 import React from "react"
@@ -25,7 +25,7 @@ const Team = () => {
           </div>
 
           <div  className='grid-4 py'>
-            {teamdata.map((item) => (
+            {finaldata.map((item) => (
               <Card data={item} key={item.id} caption={item.post} />
             ))}
           </div>
@@ -35,7 +35,7 @@ const Team = () => {
           </div>
 
           <div  className='grid-4 py'>
-            {teamdata2.map((item) => (
+            {thirddata.map((item) => (
               <Card data={item} key={item.id} caption={item.post} />
             ))}
           </div>
@@ -45,7 +45,7 @@ const Team = () => {
           </div>
 
           <div className='grid-4 py'>
-            {teamdata2.map((item) => (
+            {seconddata.map((item) => (
               <Card data={item} key={item.id} caption={item.post} />
             ))}
           </div>
@@ -55,7 +55,7 @@ const Team = () => {
           </div>
 
           <div  className='grid-4 py'>
-            {teamdata2.map((item) => (
+            {firstdata.map((item) => (
               <Card data={item} key={item.id} caption={item.post} />
             ))}
           </div>
