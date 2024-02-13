@@ -323,6 +323,10 @@ footer {
     font-weight: 300;
     font-size: large;
   }
+  .pcolor:hover{
+    color: white;
+    transition: 0.5s ease-in-out;
+  }
 }
 
 .showcase {
