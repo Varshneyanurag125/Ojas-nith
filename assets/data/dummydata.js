@@ -99,7 +99,7 @@ export const ccdata = [
   {
     id: 2,
     title: "Leena",
-    cover: "../images/leena1.jpg",
+    cover: "../images/leena1.webp",
     post: "Club Coordinator",
     handle:"linkedin.com/in/leena105",
     handlegit:"/",
@@ -111,7 +111,7 @@ export const finaldata = [
   {
     id: 1,
     title: "Jiya Kakani",
-    cover: "../images/jiyakakani.jpg",
+    cover: "../images/jiyakakani.webp",
     post: "Team Member",
     handle: "https://www.linkedin.com/in/jiya-kakani-bab172204",
     handlegit: "https://www.linkedin.com/in/jiya-kakani-bab172204",
@@ -119,7 +119,7 @@ export const finaldata = [
   {
     id: 2,
     title: "Gaurav Kumar",
-    cover: "../images/guaravsir.jpg",
+    cover: "../images/guaravsir.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/heyiamgaurav/",
     handlegit: "https://github.com/gauravjalap",
@@ -127,7 +127,7 @@ export const finaldata = [
   {
     id: 3,
     title: "Plaksha Sharma",
-    cover: "../images/plakshaSharma.jpg",
+    cover: "../images/plakshaSharma.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/plaksha-sharma-011628224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", 
     handlegit: "https://www.linkedin.com/in/plaksha-sharma-011628224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -135,7 +135,7 @@ export const finaldata = [
   {
     id: 4,
     title: "Joiyad Khan",
-    cover: "../images/joiyadkhan.jpg",
+    cover: "../images/joiyadkhan.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/joiyad-khan-3ab0bb203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "https://github.com/Joiyad",
@@ -143,7 +143,7 @@ export const finaldata = [
   {
     id: 5,
     title: "Aditya Kant",
-    cover: "../images/adityakant.jpg",
+    cover: "../images/adityakant.webp",
     post: "Team Member",
     handle:"linkedin.com/in/aditya-kant-4640bb210",
     handlegit: "github.com/AdityaKant2001",
@@ -151,7 +151,7 @@ export const finaldata = [
   {
     id: 6,
     title: "Mayank Lalwani",
-    cover: "../images/t1.jpg",
+    cover: "../images/t1.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/mayank-lalwani-bbb890210/",
     handlegit: "https://github.com/Mayankjain3634",
@@ -159,7 +159,7 @@ export const finaldata = [
   {
     id: 7,
     title: "Ajay Thakur ",
-    cover: "../images/t1.jpg",
+    cover: "../images/t1.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/ajaythakur21?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "https://github.com/tajay3576",
@@ -167,7 +167,7 @@ export const finaldata = [
   {
     id: 8,
     title: "Saumya Soni ",
-    cover: "../images/saumyasoni.jpg",
+    cover: "../images/saumyasoni.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/saumya--soni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "https://www.linkedin.com/in/saumya--soni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -178,7 +178,7 @@ export const thirddata = [
   {
     id: 1,
     title: "Kapil Mohan",
-    cover: "../images/t1.jpg",
+    cover: "../images/t1.webp",
     post: "Team Member",
     handle:"/",
     handlegit: "/",
@@ -186,7 +186,7 @@ export const thirddata = [
   {
     id: 2,
     title: "Leena",
-    cover: "../images/leena1.jpg",
+    cover: "../images/leena1.webp",
     post: "Team Member",
     handle:"linkedin.com/in/leena105",
     handlegit: "linkedin.com/in/leena105",
@@ -194,7 +194,7 @@ export const thirddata = [
   {
     id: 3,
     title: "Aditya Sood",
-    cover: "../images/AdityaSood.jpg",
+    cover: "../images/AdityaSood.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/adityasood04",
     handlegit: "https://www.linkedin.com/in/adityasood04",
@@ -202,7 +202,7 @@ export const thirddata = [
   {
     id: 4,
     title: "Sankalp Saini",
-    cover: "../images/sankalp.jpg",
+    cover: "../images/sankalp.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/sankalp-saini-3400991a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "/",
@@ -210,7 +210,7 @@ export const thirddata = [
   {
     id: 5,
     title: "Vatsalya Sharma",
-    cover: "../images/VatsalyaSharma.jpeg",
+    cover: "../images/VatsalyaSharma.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/vatsalya-sharma-698811224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
     handlegit:"https://www.linkedin.com/in/vatsalya-sharma-698811224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
@@ -218,7 +218,7 @@ export const thirddata = [
   {
     id: 6,
     title: "Rahul Bhari",
-    cover: "../images/t1.jpg",
+    cover: "../images/t1.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/connect-to-rahul-bhari",
     handlegit: "https://www.linkedin.com/in/connect-to-rahul-bhari",
@@ -226,7 +226,7 @@ export const thirddata = [
   {
     id: 7,
     title: "Ayushi",
-    cover: "../images/AYUSHI.jpg",
+    cover: "../images/AYUSHI.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/ayushi003",
     handlegit: "https://www.linkedin.com/in/ayushi003",
@@ -234,7 +234,7 @@ export const thirddata = [
   {
     id: 8,
     title: "Ishwer Dutt",
-    cover: "../images/ishwer.jpg",
+    cover: "../images/ishwer.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/ishwer-dutt-780785217",
     handlegit: "https://www.linkedin.com/in/ishwer-dutt-780785217",
@@ -242,7 +242,7 @@ export const thirddata = [
   {
     id: 9,
     title: "Priyanshu Pant",
-    cover: "../images/PriyanshuPant.jpg",
+    cover: "../images/PriyanshuPant.webp",
     post: "Team Member",
     handle:"/",
     handlegit: "/",
@@ -250,7 +250,7 @@ export const thirddata = [
   {
     id: 10,
     title: "Aryan Bharadwaj",
-    cover: "../images/aryanBh.jpg",
+    cover: "../images/aryanBh.webp",
     post: "Team Member",
     handle:"/",
     handlegit: "/",
@@ -258,7 +258,7 @@ export const thirddata = [
   {
     id: 11,
     title: "Ekansh Verma",
-    cover: "../images/ekanshverma.jpeg",
+    cover: "../images/ekanshverma.webp",
     post: "Team Member",
     handle:"linkedin.com/in/i_ekanshverma",
     handlegit: "linkedin.com/in/i_ekanshverma",
@@ -266,7 +266,7 @@ export const thirddata = [
   {
     id: 12,
     title: "Vivek Kumar",
-    cover: "../images/vivekkumar.jpg",
+    cover: "../images/vivekkumar.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/vivek-kumar-b95675231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "https://www.linkedin.com/in/vivek-kumar-b95675231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -284,7 +284,7 @@ export const seconddata = [
   {
     id: 2,
     title: "Gaurav Kumar",
-    cover: "../images/gaurav.jpg",
+    cover: "../images/gaurav.webp",
     post: "Executive Member",
     handle: "https://in.linkedin.com/in/gaurav-kumar-422b3a1a6",
     handlegit: "https://github.com/gaurav707026",
@@ -292,7 +292,7 @@ export const seconddata = [
   {
     id: 3,
     title: "Mohit Choudhary",
-    cover: "../images/mohit 2.jpg",
+    cover: "../images/mohit 2.webp",
     post: "Executive Member",
     handle: "https://www.linkedin.com/in/mohit-choudhary-8b821225a",
     handlegit: "https://github.com/MohitNITH",
@@ -301,7 +301,7 @@ export const seconddata = [
   {
     id: 4,
     title: "Drishti Sharma",
-    cover: "../images/diristi.jpg",
+    cover: "../images/diristi.webp",
     post: "Executive Member",
     handle: "https://www.linkedin.com/in/drishti-88b81124b",
     handlegit: "https://github.com/Drishti-hub",
@@ -309,7 +309,7 @@ export const seconddata = [
   {
     id: 5,
     title: "Yash Taank",
-    cover: "../images/yash.jpg",
+    cover: "../images/yash.webp",
     post: "Executive Member",
     handle: "https://in.linkedin.com/in/yash-taank-b63007252",
     handlegit: "https://in.linkedin.com/in/yash-taank-b63007252",
@@ -317,7 +317,7 @@ export const seconddata = [
   {
     id: 6,
     title: "Saumitra Tandon",
-    cover: "../images/saumitra.jpg",
+    cover: "../images/saumitra.webp",
     post: "Executive Member",
     handle: "https://www.linkedin.com/in/saumitra-tandon-1031a5262",
     handlegit: "https://github.com/SaumitraTandon",
@@ -325,7 +325,7 @@ export const seconddata = [
   {
     id: 7,
     title: "Bittu Kumar",
-    cover: "../images/bittu.jpg",
+    cover: "../images/bittu.webp",
     post: "Executive Member",
     handle: "https://www.linkedin.com/in/bittu-kumar-265884260/",
     handlegit: "https://github.com/BittuRoy18",
@@ -333,7 +333,7 @@ export const seconddata = [
   {
     id: 8,
     title: "Abhishek Duharia",
-    cover: "../images/abhishek.png",
+    cover: "../images/abhishek.webp",
     post: "Executive Member",
     handle: "https://www.linkedin.com/in/abhishek-duharia-2678b2266",
     handlegit: "https://www.linkedin.com/in/abhishek-duharia-2678b2266",
@@ -341,7 +341,7 @@ export const seconddata = [
   {
     id: 9,
     title: "Prabha Jyal",
-    cover: "../images/t6.jpg",
+    cover: "../images/t6.webp",
     post: "Executive Member",
     handle: "https://www.linkedin.com/in/prabha-jyal-8b4607257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "https://www.linkedin.com/in/prabha-jyal-8b4607257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -349,7 +349,7 @@ export const seconddata = [
   {
     id: 10,
     title: "Priyanshi Lakhotia",
-    cover: "../images/priyanshi.jpg",
+    cover: "../images/priyanshi.webp",
     post: "Executive Member",
     handle: "https://www.linkedin.com/in/priyanshi-lakhotia-a4550725a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "https://www.linkedin.com/in/priyanshi-lakhotia-a4550725a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -357,7 +357,7 @@ export const seconddata = [
   {
     id: 11,
     title: "Guncha Anam",
-    cover: "../images/guncha.jpg",
+    cover: "../images/guncha.webp",
     post: "Executive Member",
     handle: "https://www.linkedin.com/in/guncha-anam-a9921726b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "https://www.linkedin.com/in/guncha-anam-a9921726b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -367,7 +367,7 @@ export const firstdata = [
   {
     id: 1,
     title: "Yash Sisodia",
-    cover: "../images/yash.jpeg",
+    cover: "../images/yash.webp",
     post: "Volunteer",
     handle: "https://www.linkedin.com/in/yash-sisodia-3747aa28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "https://www.linkedin.com/in/yash-sisodia-3747aa28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -375,7 +375,7 @@ export const firstdata = [
   {
     id: 2,
     title: "Vansh Kumar Gautam",
-    cover: "../images/vansh.jpg",
+    cover: "../images/vansh.webp",
     post: "Volunteer",
     handle:"https://www.linkedin.com/in/vansh-kumar-gautam-3b064828a?trk=contact-info",
     handlegit: "https://www.linkedin.com/in/vansh-kumar-gautam-3b064828a?trk=contact-info",
@@ -383,7 +383,7 @@ export const firstdata = [
   {
     id: 3,
     title: "Utkarsh Gupta",
-    cover: "../images/t5.jpg",
+    cover: "../images/t5.webp",
     post: "Volunteer",
     handle:"https://www.linkedin.com/in/utkarsh-gupta-5aa661261",
     handlegit: "https://www.linkedin.com/in/utkarsh-gupta-5aa661261",
@@ -391,7 +391,7 @@ export const firstdata = [
   {
     id: 4,
     title: "Pratibha Bajia",
-    cover: "../images/prathiba.jpg",
+    cover: "../images/prathiba.webp",
     post: "Volunteer",
     handle:"https://www.linkedin.com/in/pratibha-bajia-62b3a12b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit:"https://www.linkedin.com/in/pratibha-bajia-62b3a12b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -399,7 +399,7 @@ export const firstdata = [
   {
     id: 5,
     title: "Santosh Sharma",
-    cover: "../images/santosh.jpg",
+    cover: "../images/santosh.webp",
     post: "Volunteer",
     handle:"https://www.linkedin.com/in/santosh-sharma-5412a62b0/",
     handlegit: "https://www.linkedin.com/in/santosh-sharma-5412a62b0/",
@@ -407,7 +407,7 @@ export const firstdata = [
   {
     id: 6,
     title: "Nitin Kumar",
-    cover: "../images/nitin.png",
+    cover: "../images/nitin.webp",
     post: "Volunteer",
     handle:"https://www.linkedin.com/in/nitin-21767a2a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "https://www.linkedin.com/in/nitin-21767a2a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -415,7 +415,7 @@ export const firstdata = [
   {
     id: 7,
     title: "Vaani",
-    cover: "../images/vaani.jpg",
+    cover: "../images/vaani.webp",
     post: "Volunteer",
     handle:"https://www.linkedin.com/in/vaani-chona-6b69322b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "https://www.linkedin.com/in/vaani-chona-6b69322b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -423,7 +423,7 @@ export const firstdata = [
   {
     id: 8,
     title: "Akarshita",
-    cover: "../images/akarshita.jpg",
+    cover: "../images/akarshita.webp",
     post: "Volunteer",
     handle:"http://www.linkedin.com/in/akarshita-a-0013b929b",
     handlegit: "http://www.linkedin.com/in/akarshita-a-0013b929b",
@@ -431,7 +431,7 @@ export const firstdata = [
   {
     id: 9,
     title: "Yuvraj",
-    cover: "../images/yuvraj.jpg",
+    cover: "../images/yuvraj.webp",
     post: "Volunteer",
     handle:"https://www.linkedin.com/in/yuvraj-sharma-6729b3269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "https://www.linkedin.com/in/yuvraj-sharma-6729b3269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -439,7 +439,7 @@ export const firstdata = [
   {
     id: 10,
     title: "Satish Kumar",
-    cover: "../images/satish.jpg",
+    cover: "../images/satish.webp",
     post: "Volunteer",
     handle:"https://www.linkedin.com/in/satish-kumar-2237722b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "https://www.linkedin.com/in/satish-kumar-2237722b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
