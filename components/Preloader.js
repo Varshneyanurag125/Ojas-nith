@@ -13,8 +13,8 @@ export default function Preloader() {
       <div className="texts-container">
       <span><svg
       xmlns="http://www.w3.org/2000/svg"
-      width="80"
-      height="80"
+      width="100"
+      height="100"
       version="1"
       viewBox="0 0 960 960"
     >

@@ -20,14 +20,14 @@ export const preLoaderAnim = () => {
     .from(".texts-container span", {
       duration: 1.5,
       delay: 1,
-      y: 100,
-      skewY: 10,
+      y: 120,
+      skewY: 15,
       stagger: 0.4,
       ease: "Power3.easeOut",
     })
     .to(".texts-container span", {
       duration: 1,
-      y: 120,
+      y: 140,
       skewY: -20,
       stagger: 0.2,
       ease: "Power3.easeOut",
@@ -60,7 +60,7 @@ export const preLoaderAnim = () => {
     )
     .from(".landing__main .text", {
       duration: 2,
-      y: 100,
+      y: 120,
       opacity: 0,
       stagger: {
         amount: 2,

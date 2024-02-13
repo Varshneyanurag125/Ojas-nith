@@ -8,7 +8,7 @@ const Team = () => {
     <>
       <section className='agency bg-top'>
         <div className='container'>
-          <div data-aos='zoom-in' className='heading-title'>
+          <div data-aos='zoom-in' data-aos-easing="ease-out-cubic" data-aos-duration="1000" className='heading-title'>
             <TitleSm title='MEET OUR TEAM' /> <br />
             <br />
             <Title title='Club Coordinator' className='title-bg' />
@@ -20,7 +20,7 @@ const Team = () => {
             ))}
           </div>
 
-          <div  data-aos='zoom-in' className='heading-title'>
+          <div  data-aos='zoom-in' data-aos-easing="ease-out-cubic" data-aos-duration="1000" className='heading-title'>
             <Title title='Final Year' className='title-bg' />
           </div>
 
@@ -30,7 +30,7 @@ const Team = () => {
             ))}
           </div>
 
-          <div  data-aos='zoom-in' className='heading-title'>
+          <div  data-aos='zoom-in' data-aos-easing="ease-out-cubic" data-aos-duration="1000" className='heading-title'>
             <Title title='Third Year' className='title-bg' />
           </div>
 
@@ -40,7 +40,7 @@ const Team = () => {
             ))}
           </div>
 
-          <div  data-aos='zoom-in' className='heading-title'>
+          <div   data-aos='zoom-in' data-aos-easing="ease-out-cubic" data-aos-duration="1000" className='heading-title'>
             <Title title='Executive Members' className='title-bg' />
           </div>
 
@@ -50,7 +50,7 @@ const Team = () => {
             ))}
           </div>
 
-          <div  data-aos='zoom-in' className='heading-title'>
+          <div   data-aos='zoom-in' data-aos-easing="ease-out-cubic" data-aos-duration="1000" className='heading-title'>
             <Title title='Volunteers' className='title-bg' />
           </div>
 

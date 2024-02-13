@@ -23,6 +23,7 @@ const Header = () => {
       width="40"
       height="40"
       version="1"
+      // fill="red"
       viewBox="0 0 960 960"
     >
       <g fill="#e9963c">

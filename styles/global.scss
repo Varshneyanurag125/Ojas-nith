@@ -180,13 +180,15 @@
 
 }
 
+
 .preloader .texts-container{
   // width: 100%;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  height: 100px;
-  width: 390px;
+  justify-content: center;
+  gap : 1rem;
+  height: 120px;
+  width: 510px;
   font-size: 50px;
   font-weight: 500;
   overflow: hidden;
@@ -315,6 +317,11 @@ footer {
       border-left: 5px solid $indigo;
       padding-left: $xl-5;
     }
+  }
+  .pcolor{
+    color: rgb(208, 208, 208);
+    font-weight: 300;
+    font-size: large;
   }
 }
 
