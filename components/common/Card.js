@@ -2,6 +2,7 @@ import Link from "next/link"
 import { TitleSm } from "./Title"
 import { HiOutlineArrowRight } from "react-icons/hi"
 import Tilt from "../Tilt"
+import Image from "next/image"
 
 export const Card = ({ data, caption, show}) => {
   return (
@@ -31,8 +32,8 @@ export const Card = ({ data, caption, show}) => {
           {show && (
             <ul>
               {data.desc.map((text, i) => (
-                <li key={i}> - {text.text}</li>
-              ))}
+                <li key={i}> - {text.text} </li>
+              ))}''
             </ul>
           )}
         </div>

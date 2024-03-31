@@ -24,14 +24,14 @@ export const home = [
 export const event = [
   {
     id: 1,
-    title: "Event Name",
-    cover: "../images/e1.jpg",
+    title: "ML WORKSHOP",
+    cover: "../images/ojasevent.jpg",
     desc: [{ text: "Event description" }],
   },
   {
     id: 2,
-    title: "Event Name",
-    cover: "../images/e1.jpg",
+    title: "OJAS DAY",
+    cover: "../images/ojasday1.jpg",
     desc: [{ text: "Event description" }],
   },
   {
