@@ -218,7 +218,7 @@ export const thirddata = [
   {
     id: 7,
     title: "Ayushi",
-    cover: "../images/ayushi.webp",
+    cover: "../images/ayushimam.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/ayushi003",
     handlegit: "https://www.linkedin.com/in/ayushi003",
