@@ -14,7 +14,7 @@ const Services = () => {
             <br />
             <Title title='BEST EVENTS' className='title-bg' />
           </div>
-          <div  data-aos="zoom-in" className='grid-2 py ' style={{}}>
+          <div  data-aos="zoom-in" className='grid-2 py' style={{}}>
             {event.map((item) => (
               <Card data={item} key={item.id} caption={item.post} show={true} />
             ))}
