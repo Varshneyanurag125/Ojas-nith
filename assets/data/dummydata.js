@@ -186,7 +186,7 @@ export const thirddata = [
   {
     id: 3,
     title: "Aditya Sood",
-    cover: "../images/AdityaSood.webp",
+    cover: "../images/adityasood.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/adityasood04",
     handlegit: "https://www.linkedin.com/in/adityasood04",
@@ -218,7 +218,7 @@ export const thirddata = [
   {
     id: 7,
     title: "Ayushi",
-    cover: "../images/AYUSHI.webp",
+    cover: "../images/ayushi.webp",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/ayushi003",
     handlegit: "https://www.linkedin.com/in/ayushi003",
