@@ -91,7 +91,7 @@ export const ccdata = [
   {
     id: 1,
     title: "Kapil Mohan",
-    cover: "../images/t1.jpg",
+    cover: "../images/defaultimg.png",
     post: "Club Coordinator",
     handle:"/",
     handlegit:"/",
@@ -151,7 +151,7 @@ export const finaldata = [
   {
     id: 6,
     title: "Mayank Lalwani",
-    cover: "../images/t1.webp",
+    cover: "../images/defaultimg.png",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/mayank-lalwani-bbb890210/",
     handlegit: "https://github.com/Mayankjain3634",
@@ -159,7 +159,7 @@ export const finaldata = [
   {
     id: 7,
     title: "Ajay Thakur ",
-    cover: "../images/t1.webp",
+    cover: "../images/defaultimg.png",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/ajaythakur21?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "https://github.com/tajay3576",
@@ -178,7 +178,7 @@ export const thirddata = [
   {
     id: 1,
     title: "Kapil Mohan",
-    cover: "../images/t1.webp",
+    cover: "../images/defaultimg.png",
     post: "Team Member",
     handle:"/",
     handlegit: "/",
@@ -218,7 +218,7 @@ export const thirddata = [
   {
     id: 6,
     title: "Rahul Bhari",
-    cover: "../images/t1.webp",
+    cover: "../images/defaultimg.png",
     post: "Team Member",
     handle:"https://www.linkedin.com/in/connect-to-rahul-bhari",
     handlegit: "https://www.linkedin.com/in/connect-to-rahul-bhari",
@@ -276,7 +276,7 @@ export const seconddata = [
   {
     id: 1,
     title: "Anurag varshney",
-    cover: "../images/t1.jpg",
+    cover: "../images/anurag.webp",
     post: "Executive Member",
     handle: "https://www.linkedin.com/in/anurag-varshney-6a6a4321b/",
     handlegit: "https://github.com/Varshneyanurag125",
@@ -341,7 +341,7 @@ export const seconddata = [
   {
     id: 9,
     title: "Prabha Jyal",
-    cover: "../images/t6.webp",
+    cover: "../images/defaultimg.png",
     post: "Executive Member",
     handle: "https://www.linkedin.com/in/prabha-jyal-8b4607257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "https://www.linkedin.com/in/prabha-jyal-8b4607257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -383,7 +383,7 @@ export const firstdata = [
   {
     id: 3,
     title: "Utkarsh Gupta",
-    cover: "../images/t5.webp",
+    cover: "../images/defaultimg.png",
     post: "Volunteer",
     handle:"https://www.linkedin.com/in/utkarsh-gupta-5aa661261",
     handlegit: "https://www.linkedin.com/in/utkarsh-gupta-5aa661261",
