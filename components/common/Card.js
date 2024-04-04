@@ -10,7 +10,7 @@ export const Card = ({ data, caption, show}) => {
       <div  data-aos="zoom-in" data-aos-easing="ease-out-cubic" data-aos-duration="2000" className='card'>
         <div className='card-img '>
         <Tilt options={{ max:15, speed: 400 }}>
-          <img className="team-card" src={data.cover} alt={data.title} />
+          <img className="team-card" src={data.cover} alt={data.title} loading="lazy"/>
           </Tilt>
         </div>
         <div className='card-details '>

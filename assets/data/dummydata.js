@@ -90,8 +90,8 @@ export const showcase = [
 export const ccdata = [
   {
     id: 1,
-    title: "Kapil Mohan",
-    cover: "../images/defaultimg.png",
+    title: "Sankalp Saini",
+    cover: "../images/sankalp.webp",
     post: "Club Coordinator",
     handle:"/",
     handlegit:"/",
@@ -175,14 +175,6 @@ export const finaldata = [
 ]
 
 export const thirddata = [
-  {
-    id: 1,
-    title: "Kapil Mohan",
-    cover: "../images/defaultimg.png",
-    post: "Team Member",
-    handle:"/",
-    handlegit: "/",
-  },
   {
     id: 2,
     title: "Leena",
@@ -367,7 +359,7 @@ export const firstdata = [
   {
     id: 1,
     title: "Yash Sisodia",
-    cover: "../images/yash.webp",
+    cover: "../images/yash1.webp",
     post: "Volunteer",
     handle: "https://www.linkedin.com/in/yash-sisodia-3747aa28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handlegit: "https://www.linkedin.com/in/yash-sisodia-3747aa28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -387,14 +379,6 @@ export const firstdata = [
     post: "Volunteer",
     handle:"https://www.linkedin.com/in/utkarsh-gupta-5aa661261",
     handlegit: "https://www.linkedin.com/in/utkarsh-gupta-5aa661261",
-  },
-  {
-    id: 4,
-    title: "Pratibha Bajia",
-    cover: "../images/prathiba.webp",
-    post: "Volunteer",
-    handle:"https://www.linkedin.com/in/pratibha-bajia-62b3a12b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    handlegit:"https://www.linkedin.com/in/pratibha-bajia-62b3a12b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
   {
     id: 5,
@@ -427,14 +411,6 @@ export const firstdata = [
     post: "Volunteer",
     handle:"http://www.linkedin.com/in/akarshita-a-0013b929b",
     handlegit: "http://www.linkedin.com/in/akarshita-a-0013b929b",
-  },
-  {
-    id: 9,
-    title: "Yuvraj",
-    cover: "../images/yuvraj.webp",
-    post: "Volunteer",
-    handle:"https://www.linkedin.com/in/yuvraj-sharma-6729b3269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    handlegit: "https://www.linkedin.com/in/yuvraj-sharma-6729b3269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
   {
     id: 10,
