@@ -51,32 +51,26 @@ export const event = [
 export const showcase = [
   {
     id: 1,
-    title: "PIC 1",
     cover: "../images/ojas1.jpg",
   },
   {
     id: 2,
-    title: "PIC 2",
     cover: "../images/ojas2.jpg",
   },
   {
     id: 3,
-    title: "PIC 3",
     cover: "../images/ojas3.jpg",
   },
   {
     id: 4,
-    title: "PIC 4",
     cover: "../images/ojas4.jpg",
   },
   {
     id: 5,
-    title: "PIC 5",
     cover: "../images/ojasday1.png",
   },
   {
     id: 5,
-    title: "PIC 6",
     cover: "../images/s6.jpg",
   },
 ]
