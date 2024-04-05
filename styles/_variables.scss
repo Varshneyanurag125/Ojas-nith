@@ -42,7 +42,7 @@ p {
 .round {
   border-radius: 50px 0 50px 0;
   height: 320px;
-  object-fit: cover;
+  object-fit:fill;
   object-position: center;
 }
 .ml {

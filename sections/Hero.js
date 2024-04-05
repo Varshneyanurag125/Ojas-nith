@@ -86,7 +86,7 @@ const Hero = () => {
             <TitleSm title='Departmental Club of Electrical Engineering' className="title" />
           </div>
         </div>
-       
+		<a className='home-page-btn'></a>
       </section>
       <ShowCase />
       
