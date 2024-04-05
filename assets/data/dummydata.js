@@ -52,38 +52,32 @@ export const showcase = [
   {
     id: 1,
     title: "PIC 1",
-    cover: "../images/s1.jpg",
-    catgeory: "Des",
+    cover: "../images/ojas1.jpg",
   },
   {
     id: 2,
     title: "PIC 2",
-    cover: "../images/s2.jpg",
-    catgeory: "DES",
+    cover: "../images/ojas2.jpg",
   },
   {
     id: 3,
     title: "PIC 3",
-    cover: "../images/s3.jpg",
-    catgeory: "DES",
+    cover: "../images/ojas3.jpg",
   },
   {
     id: 4,
     title: "PIC 4",
-    cover: "../images/s4.jpg",
-    catgeory: "DES",
+    cover: "../images/ojas4.jpg",
   },
   {
     id: 5,
     title: "PIC 5",
-    cover: "../images/s5.jpg",
-    catgeory: "DES",
+    cover: "../images/ojasday1.png",
   },
   {
     id: 5,
     title: "PIC 6",
     cover: "../images/s6.jpg",
-    catgeory: "DES",
   },
 ]
 
