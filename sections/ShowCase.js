@@ -20,9 +20,6 @@ const ShowCase = () => {
               <Card data={item} key={item.id} />
             ))}
           </div>
-          <div className='py btn'>
-            <button className='secondary-button'>View More</button>
-          </div>
         </div>
       </section>
     </>
