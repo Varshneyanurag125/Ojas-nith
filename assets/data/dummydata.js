@@ -51,27 +51,7 @@ export const event = [
 export const showcase = [
   {
     id: 1,
-    cover: "../images/ojas1.jpg",
-  },
-  {
-    id: 2,
-    cover: "../images/ojas2.jpg",
-  },
-  {
-    id: 3,
-    cover: "../images/ojas3.jpg",
-  },
-  {
-    id: 4,
-    cover: "../images/ojas4.jpg",
-  },
-  {
-    id: 5,
-    cover: "../images/ojasday1.png",
-  },
-  {
-    id: 5,
-    cover: "../images/s6.jpg",
+    cover: "../images/ojasofficial.jpg",
   },
 ]
 
