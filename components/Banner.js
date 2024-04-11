@@ -11,7 +11,7 @@ const Banner = () => {
             <TitleLogo title='Lets take our Club to the next level!' />
           </div>
           <div>
-            <button className='button-primary'>Join our team </button>
+
           </div>
         </div>
       </section>

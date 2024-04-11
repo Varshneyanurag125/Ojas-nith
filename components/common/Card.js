@@ -2,7 +2,7 @@ import Link from "next/link"
 import { TitleSm } from "./Title"
 import { HiOutlineArrowRight } from "react-icons/hi"
 import Tilt from "../Tilt"
-import Image from "next/image"
+// import Image from "next/image"
 
 export const Card = ({ data, caption, show}) => {
   return (

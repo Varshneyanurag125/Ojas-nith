@@ -11,13 +11,14 @@
   }
 }
 
+.button-primary
 .home-page-btn{
   position: absolute;
   width: 1.7em;
   height: 2.5em;
   border: 3px solid $green;
   border-radius: 3em;
-  z-index: 999;
+  z-index: 1;
   margin: auto;
   left: 0;
   right: 0;
