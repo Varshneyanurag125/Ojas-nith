@@ -2,7 +2,7 @@ import { AiOutlineCalendar } from "react-icons/ai"
 import { TfiRulerPencil } from "react-icons/tfi"
 import { VscFileSubmodule } from "react-icons/vsc"
 import { BiUser } from "react-icons/bi"
-
+// import Assest1 from "./fgdgh.png"
 export const home = [
   {
     icon: <AiOutlineCalendar size={25} />,
@@ -26,26 +26,26 @@ export const event = [
     id: 1,
     title: "ML WORKSHOP",
     cover: "../images/ojasevent.jpg",
-    desc: [{ text: "Event description" }],
+    desc: [],
   },
   {
     id: 2,
     title: "OJAS DAY",
     cover: "../images/ojasday1.png",
-    desc: [{ text: "Event description" }],
+    desc: [],
   },
-  {
-    id: 3,
-    title: "Event Name",
-    cover: "../images/e1.jpg",
-    desc: [{ text: "Event description" }],
-  },
-  {
-    id: 4,
-    title: "Event Name",
-    cover: "../images/e1.jpg",
-    desc: [{ text: "Event description" }],
-  },
+  // {
+  //   id: 3,
+  //   title: "Event Name",
+  //   cover: "../images/e1.jpg",
+  //   desc: [{ text: "Event description" }],
+  // },
+  // {
+  //   id: 4,
+  //   title: "Event Name",
+  //   cover: "../images/e1.jpg",
+  //   desc: [{ text: "Event description" }],
+  // },
 ]
 
 export const showcase = [

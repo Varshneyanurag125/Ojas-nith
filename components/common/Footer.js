@@ -15,7 +15,7 @@ const Footer = () => {
             <ul>
               <h3>CLUB</h3>
               <li>
-                <Link href='/'>HOME</Link>
+                <Link className="link-footer" href='/'>HOME</Link>
               </li>
               <li>
                 <Link href='/'>TEAM</Link>
