@@ -30,9 +30,9 @@ const Footer = () => {
                 <Link href='/'>ABOUT US</Link>
               </li>
             </ul> */}
-            <ul className="flex" >
+            <ul className="flex1" >
               <h3>DOMAINS</h3>
-              <div className="flex flex-col gap-5 justify-start" >
+              <div className="flex2" >
               <li>
                 Hardware
               </li>
