@@ -2,11 +2,12 @@
 import {TitleSm } from "@/components/common/Title"
 import React from "react"
 import ShowCase from "./ShowCase"
+import AboutUs from "./AboutUs"
 const Hero = () => {
   return (
-    <>
+    <div className="" >
       <section className='hero'>
-        <div data-aos="zoom-in" class="snow">
+        <div data-aos="zoom-in" className="snow">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1536" preserveAspectRatio="xMidYMax slice">
 		    <g fill="#4b1b88" fill-opacity="0.8" transform="translate(55 42)">
 			   <g id="snow-bottom-layer">
@@ -79,7 +80,7 @@ const Hero = () => {
 			   </g>
 		    </g>
 		</svg>
-    </div>
+    	</div>
         <div data-aos="zoom-in" className='container'>
           <h1 className='hero-title'> TEAM OJAS</h1>
           <div className='sub-heading'>
@@ -87,10 +88,14 @@ const Hero = () => {
           </div>
         </div>
 		<a className='home-page-btn'></a>
-      </section>
-      <ShowCase />
+     
+	  </section>
+
+      <AboutUs />
+	  	
+
       
-    </>
+    </div>
   )
 }
 

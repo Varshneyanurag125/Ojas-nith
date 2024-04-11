@@ -8,11 +8,11 @@ const Footer = () => {
     <>
       <footer>
         <div className='container'>
-          <div className='grid-4'>
+          <div className='grid-3'>
             <div className='logo'>
               <TitleLogo title='OJAS' className='logobg' />
             </div>
-            <ul>
+            {/* <ul>
               <h3>CLUB</h3>
               <li>
                 <Link className="link-footer" href='/'>HOME</Link>
@@ -29,37 +29,39 @@ const Footer = () => {
               <li>
                 <Link href='/'>ABOUT US</Link>
               </li>
-            </ul>
-            <ul>
+            </ul> */}
+            <ul className="flex" >
               <h3>DOMAINS</h3>
+              <div className="flex flex-col gap-5 justify-start" >
               <li>
-                <Link href='/'>Web Design & Development</Link>
+                Hardware
               </li>
               <li>
-                <Link href='/'>Graphics</Link>
+                AI/ML
               </li>
               <li>
-                <Link href='/'>Core </Link>
+                Graphic Designing 
               </li>
               <li>
-                <Link href='/'>UI/UX</Link>
+                Web Development
               </li>
+              </div>
             </ul>
             <ul>
               <h3>CONNECT</h3>
               <div className='social-handle'>
                 <li>
-                  <Link href='/'>
+                  <Link href='https://m.facebook.com/profile.php?id=100076137815057&name=xhp_nt_fbaction_open_user'target="_blank">
                     <BsFacebook size={25} />
                   </Link>
                 </li>
                 <li>
-                  <Link href='/'>
+                  <Link href='https://www.instagram.com/team_ojas_nith?igsh=bDN3Z2diZXR2aHNu'target="_blank">
                     <AiFillInstagram size={25} />
                   </Link>
                 </li>
                 <li>
-                  <Link href='/'>
+                  <Link href='https://www.linkedin.com/company/ojasnith/' target="_blank" >
                     <AiFillLinkedin size={25} />
                   </Link>
                 </li>
@@ -68,11 +70,11 @@ const Footer = () => {
           </div>
           <div className='legal connect py'>
             <div className='text'>
-              <span>© 2024 TEAM OJAS. ALL RIGHTS RESERVED.</span>
+              <span>Made with love by Team Ojas</span>
             </div>
             <div className='connect'>
-              <span>ANURAG VARSHNEY</span>
-              <span> &nbsp; | &nbsp; </span>
+              {/* <span>ANURAG VARSHNEY</span> */}
+              {/* <span> &nbsp; | &nbsp; </span> */}
             </div>
           </div>
         </div>

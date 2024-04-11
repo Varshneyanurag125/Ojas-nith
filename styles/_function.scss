@@ -1,3 +1,4 @@
+
 @mixin flex($align, $justify, $direction) {
   display: flex;
   align-items: $align;
@@ -9,6 +10,7 @@
   grid-template-columns: $columns;
   grid-gap: $gap;
 }
+
 .team-container{
   @include grid(repeat(4, 1fr), 50px);
 }
