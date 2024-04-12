@@ -31,7 +31,7 @@ export const event = [
   {
     id: 2,
     title: "OJAS DAY",
-    cover: "../images/ojasday1.png",
+    cover: "../images/ojasday.jpg",
     desc: [],
   },
   // {
@@ -53,6 +53,26 @@ export const showcase = [
     id: 1,
     cover: "../images/ojasofficial.jpg",
   },
+  {
+    id: 2,
+    cover: "../images/ojas1.jpg",
+  },
+  {
+    id: 3,
+    cover: "../images/ojas2.jpg",
+  },
+  {
+    id: 4,
+    cover: "../images/ojas3.jpg",
+  },
+  {
+    id: 5,
+    cover: "../images/ojas4.jpg",
+  },
+  {
+    id: 6,
+    cover: "../images/ojasday.jpg",
+  },
 ]
 
 export const ccdata = [
@@ -69,7 +89,7 @@ export const ccdata = [
     title: "Leena",
     cover: "../images/leena1.webp",
     post: "Club Coordinator",
-    handlegit:"linkedin.com/in/leena105",
+    handlegit:"https://www.linkedin.com/in/leena105/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handle:"/",
   },
 
@@ -119,7 +139,7 @@ export const finaldata = [
   {
     id: 6,
     title: "Mayank Lalwani",
-    cover: "../images/defaultimg.png",
+    cover: "../images/mayank.jpeg",
     post: "Linked In",
     handlegit:"https://www.linkedin.com/in/mayank-lalwani-bbb890210/",
     handle: "https://github.com/Mayankjain3634",
@@ -127,7 +147,7 @@ export const finaldata = [
   {
     id: 7,
     title: "Ajay Thakur ",
-    cover: "../images/defaultimg.png",
+    cover: "../images/ajay.jpeg",
     post: "Linked In",
     handlegit:"https://www.linkedin.com/in/ajaythakur21?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handle: "https://github.com/tajay3576",
@@ -140,6 +160,22 @@ export const finaldata = [
     handlegit:"https://www.linkedin.com/in/saumya--soni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handle: "https://www.linkedin.com/in/saumya--soni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
+  {
+    id: 9,
+    title: "Gopanshu Thakur",
+    cover: "../images/gopanshu.webp",
+    post: "Linked In",
+    handlegit:"https://www.linkedin.com/in/gopanshu-thakur-b94b45177/",
+    handle: "https://www.linkedin.com/in/gopanshu-thakur-b94b45177/",
+  },
+  {
+    id: 10,
+    title: "Sujal Thakur",
+    cover: "../images/sujal.jpeg",
+    post: "Linked In",
+    handlegit:"https://www.linkedin.com/in/sujal-thakur-0a245120a/",
+    handle: "https://www.linkedin.com/in/sujal-thakur-0a245120a/",
+  },
 ]
 
 export const thirddata = [
@@ -148,7 +184,7 @@ export const thirddata = [
     title: "Leena",
     cover: "../images/leena1.webp",
     post: "Linked In",
-    handlegit:"linkedin.com/in/leena105",
+    handlegit:"https://www.linkedin.com/in/leena105/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handle: "linkedin.com/in/leena105",
   },
   {
@@ -178,7 +214,7 @@ export const thirddata = [
   {
     id: 6,
     title: "Rahul Bhari",
-    cover: "../images/defaultimg.png",
+    cover: "../images/rahulbhari.jpeg",
     post: "Linked In",
     handlegit:"https://www.linkedin.com/in/connect-to-rahul-bhari",
     handle: "https://www.linkedin.com/in/connect-to-rahul-bhari",
@@ -301,7 +337,7 @@ export const seconddata = [
   {
     id: 9,
     title: "Prabha Jyal",
-    cover: "../images/defaultimg.png",
+    cover: "../images/prabha.webp",
     post: "Executive Member",
     handlegit: "https://www.linkedin.com/in/prabha-jyal-8b4607257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     handle: "https://www.linkedin.com/in/prabha-jyal-8b4607257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",

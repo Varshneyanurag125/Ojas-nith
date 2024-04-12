@@ -10,16 +10,8 @@ const Team = () => {
         <div className='container'>
           <div data-aos='zoom-in' data-aos-easing="ease-out-cubic" data-aos-duration="1000" className='heading-title'>
             <TitleSm title='MEET OUR TEAM' />
-            {/* <br />
-            <Title title='Club Coordinator' className='title-bg' /> */}
           </div>
-
-          {/* <div  className='team-container py '>
-            {ccdata.map((item) => (
-              <Card data={item} key={item.id} caption={item.post} className="card-container" />
-            ))}
-          </div> */}
-
+          
           <div  data-aos='zoom-in' data-aos-easing="ease-out-cubic" data-aos-duration="1000" className='heading-title'>
             <Title title='Final Year' className='title-bg' />
           </div>
