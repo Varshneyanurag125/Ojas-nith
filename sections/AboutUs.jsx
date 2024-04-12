@@ -12,7 +12,7 @@ const ShowCase = () => {
           <div className='heading-title'>
             <TitleSm title='ABOUT US' /> <br />
             <br />
-            <Title title='OUR CLUB COORDINATOR' className='title-bg' />
+            <Title title='OUR CLUB COORDINATORS' className='title-bg' />
           </div>
           <br />
           <br />
